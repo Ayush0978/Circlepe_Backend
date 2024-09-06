@@ -1,0 +1,20 @@
+{
+    "name": "circlepe-backend",
+    "version": "1.0.0",
+    "description": "Backend for CirclePe assignment",
+    "main": "dist/main.js",
+    "scripts": {
+      "start": "nest start",
+      "build": "nest build"
+    },
+    "dependencies": {
+      "@nestjs/common": "^8.0.0",
+      "@nestjs/core": "^8.0.0",
+      "@nestjs/mongoose": "^8.0.0",
+      "@nestjs/typeorm": "^8.0.0",
+      "mongoose": "^6.0.0",
+      "pg": "^8.0.0",
+      "typeorm": "^0.2.0"
+    }
+  }
+  
